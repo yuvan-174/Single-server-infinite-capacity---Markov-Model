@@ -1,4 +1,4 @@
-# Ex-04
+![image](https://github.com/user-attachments/assets/e769654a-4ff1-4e4c-8636-97d86b6c933e)# Ex-04
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
@@ -57,7 +57,9 @@ print("--------------------------------------------------")
 ```
 
 ## Output :
-![image](https://github.com/user-attachments/assets/16663c23-e1c8-41f2-abbf-44dbf6f8f6f2)
+![Screenshot 2024-11-10 181225](https://github.com/user-attachments/assets/2a55616d-276b-47cb-a863-7f81ac8206d8)
+
+
 
 ## Result :
 Thus the experiment is executed successfully.
